@@ -4,7 +4,7 @@
 
 I build product end to end: backend services and queues, web and mobile apps, and the integrations and AI agents that tie them together. Most of my work lives in 12min's private repositories, with 200+ merged pull requests so far.
 
-[🇧🇷 Leia em português](#-em-português)
+[LinkedIn](https://www.linkedin.com/in/carlos-eduardo-7b0507244/) · [🇧🇷 Leia em português](#-em-português)
 
 ---
 
